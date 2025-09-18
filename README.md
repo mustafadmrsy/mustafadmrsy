@@ -61,5 +61,6 @@ I have been learning programming for 2 years.
 
 ## 📊 GitHub Stats
 
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadmrsy&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mustafadmrsy&theme=tokyonight&hide_border=true)  
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustafadmrsy&theme=tokyonight)  
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustafadmrsy&theme=tokyonight)
