@@ -61,6 +61,6 @@ I have been learning programming for 2 years.
 
 ## 📊 GitHub Stats
 
-![Mustafa Demirsoy's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mustafadmrsy&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true)
+![Mustafa Demirsoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&cache_seconds=3600)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mustafadmrsy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadmrsy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=3600)
