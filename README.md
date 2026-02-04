@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/mustafademirsoy">LinkedIn</a> ·
   <a href="mailto:mustafadmrsy125@gmail.com">Email</a> ·
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="https://github.com/mustafadmrsy">GitHub</a>
 </p>
 
 ---
@@ -50,15 +50,15 @@
 
 <p align="center">
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+       src="https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
        alt="GitHub stats" />
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadmrsy&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
        alt="Top languages" />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    src="https://streak-stats.demolab.com?user=mustafadmrsy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
     alt="GitHub streak" />
 </p>
