@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mustafa Demirsoy</h1>
-<p align="center">Junior Web & Desktop Developer · Türkiye</p>
+<p align="center">Developer · Türkiye</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mustafademirsoy">LinkedIn</a> ·
