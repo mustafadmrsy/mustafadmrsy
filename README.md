@@ -87,8 +87,6 @@
 
 ## Streak
 
-> Eğer aşağıdaki ilk streak görünmezse, ikinci alternatifi kullan.
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=mustafadmrsy&theme=tokyonight&hide_border=true)
 
 <!-- Fallback: uncomment if needed -->
