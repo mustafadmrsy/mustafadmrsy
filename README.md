@@ -33,7 +33,7 @@
 <br/>
 
 <!-- HAKKIMDA -->
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github&count_private=true&include_all_commits=true"/>
+<img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com?user=mustafadmrsy&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=F59E0B&currStreakLabel=0EA5E9"/>
 
 ### `> profil`
 
@@ -326,7 +326,7 @@ Env       →  .env.local + platform Secrets
 |:---:|:---|:---|:---|
 | ⚙️ | **Özcan Otomotiv** | Full Stack Developer | 2026 — Devam ediyor |
 | 🏢 | **Cross4Solution Technology** | Frontend Developer | 2024 — 2026 |
-| 🏢 | **Tofa.Hub** | Web Developer | 2024 — 2025 |
+| 🏢 | **Tofa.Hub** | Web Developer | 2024 — Devam ediyor |
 
 </div>
 
@@ -338,7 +338,7 @@ Env       →  .env.local + platform Secrets
 **🏢 Cross4Solution Technology** &nbsp;`Frontend Developer · 2024 — 2026`
 > React.js ve Next.js ile frontend geliştirme. Node.js ve Express.js API entegrasyonları. Birden fazla müşteriye yönelik web ürününe katkı.
 
-**🏢 Tofa.Hub** &nbsp;`Web Developer · 2024 — 2025`
+**🏢 Tofa.Hub** &nbsp;`Web Developer · 2024 — Devam ediyor`
 > Next.js ve Tailwind CSS ile responsive arayüz geliştirme. SEO stratejisi ve web performans iyileştirmeleri.
 
 <br/>
