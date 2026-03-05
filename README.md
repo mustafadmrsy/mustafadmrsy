@@ -353,9 +353,12 @@ Env       →  .env.local + platform Secrets
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github&count_private=true&include_all_commits=true&hide=contribs"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadmrsy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustafadmrsy&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mustafadmrsy&theme=tokyonight"/>
+
+<br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafadmrsy&theme=tokyonight"/>
 
 </div>
 
