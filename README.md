@@ -21,9 +21,9 @@
 
 <br/>
 
-<!-- TYPING ANIMATION — only ASCII chars to avoid XML parse errors -->
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Python+%7C+Kotlin+%7C+JavaScript+%7C+Next.js;Building+things+that+actually+work.;Lead+Software+Engineer+%40+Ozcan+Otomotiv;I+am+never+gonna+give+up+%F0%9F%94%A5" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Python+%7C+Kotlin+%7C+JavaScript+%7C+Next.js;Building+things+that+actually+work.;Full+Stack+Developer+%40+Ozcan+Otomotiv;I+am+never+gonna+give+up+%F0%9F%94%A5" alt="typing"/>
 </div>
 
 <br/>
@@ -33,7 +33,7 @@
 <br/>
 
 <!-- ABOUT + STATS SIDE BY SIDE -->
-<img align="right" width="355" src="https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github"/>
+<img align="right" width="355" src="https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github&count_private=true"/>
 
 ### `> profile.json`
 
@@ -43,7 +43,7 @@
   "title"      : "Software Developer",
   "location"   : "Turkey",
   "experience" : "2+ years — web, desktop, mobile",
-  "current"    : "Lead Engineer @ Ozcan Otomotiv",
+  "current"    : "Full Stack Developer @ Ozcan Otomotiv",
   "stack"      : ["Web", "Desktop", "Python Automation"],
   "exploring"  : "Kotlin / Android Development",
   "open_to"    : "Any kind of software project"
@@ -320,27 +320,26 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  ⚙️   Ozcan Otomotiv                         2025 — Present         ║
-║       Lead Software Engineer                                         ║
-║       Sole engineer owning the entire software stack end-to-end.    ║
-║       → Designing and building all web platforms from scratch       ║
-║       → Automation systems, internal tools, API integrations        ║
-║       → Full ownership: architecture → design → deployment          ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  🏢  Tofa.Hub                                2024 — 2025            ║
-║      Web Developer                                                   ║
-║      → Next.js + Tailwind responsive UI development                 ║
-║      → SEO strategy and web performance optimization                ║
-║      tofahub.com                                                     ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  🏢  Cross4Solution Technology               2025 (Short-term)      ║
-║      Junior Developer                                                ║
-║      → React.js and Next.js UI development                          ║
-║      → Node.js and Express.js API integrations                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+| | Company | Role | Period |
+|:---:|:---|:---|:---|
+| ⚙️ | **Ozcan Otomotiv** | Full Stack Developer | 2026 — Present |
+| 🏢 | **Cross4Solution Technology** | Frontend Developer | 2024 — 2026 |
+| 🏢 | **Tofa.Hub** | Web Developer | 2024 — 2025 |
+
+</div>
+
+<br/>
+
+**⚙️ Ozcan Otomotiv** `Full Stack Developer · 2026 — Present`
+> Sole engineer with complete ownership of the entire software stack — from architecture and design to deployment and maintenance. Building all web platforms, automation systems, and internal tools from the ground up.
+
+**🏢 Cross4Solution Technology** `Frontend Developer · 2024 — 2026`
+> Frontend development with React.js and Next.js. API integrations with Node.js and Express.js. Contributed to multiple client-facing web products.
+
+**🏢 Tofa.Hub** `Web Developer · 2024 — 2025`
+> Responsive UI development with Next.js and Tailwind CSS. SEO strategy and web performance optimization.
 
 <br/>
 
@@ -354,13 +353,9 @@ Env       →  .env.local + platform Secrets
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadmrsy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8&cache_seconds=1800"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github&count_private=true"/>
 &nbsp;&nbsp;
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafadmrsy&theme=tokyonight&utcOffset=3"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafadmrsy&theme=tokyonight"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadmrsy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8"/>
 
 </div>
 
@@ -422,11 +417,9 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-<!-- NEVER GIVE UP SECTION -->
+<!-- NEVER GIVE UP BANNER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=80&text=I+am+never+gonna+give+up+%F0%9F%94%A5&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=80&text=I+am+never+gonna+give+up+%F0%9F%94%A5&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 </div>
 
 <br/>
