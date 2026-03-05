@@ -1,9 +1,9 @@
-<!-- HEADER -->
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Mustafa%20Demirsoy%20🔥&fontSize=58&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20%26%20Software%20Developer%20%C2%B7%20T%C3%BCrkiye&descSize=18&descAlignY=75&descColor=94a3b8&animation=fadeIn&stroke=0ea5e9&strokeWidth=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Mustafa+Demirsoy&fontSize=62&fontColor=ffffff&fontAlignY=55&desc=Software+Developer+%C2%B7+Turkey&descSize=19&descAlignY=75&descColor=94a3b8&animation=fadeIn&stroke=0ea5e9&strokeWidth=1" width="100%"/>
 </div>
 
-<!-- SOCIAL -->
+<!-- SOCIAL BADGES -->
 <div align="center">
   <a href="https://linkedin.com/in/mustafademirsoy">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,15 +15,15 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=mustafadmrsy&style=for-the-badge&color=0ea5e9&label=PROFİL+GÖRÜNTÜLENMESİ"/>
-  <img src="https://img.shields.io/github/followers/mustafadmrsy?style=for-the-badge&color=22c55e&label=TAKİPÇİ"/>
+  <img src="https://komarev.com/ghpvc/?username=mustafadmrsy&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/mustafadmrsy?style=for-the-badge&color=22c55e&label=FOLLOWERS"/>
 </div>
 
 <br/>
 
-<!-- TYPING -->
+<!-- TYPING ANIMATION — only ASCII chars to avoid XML parse errors -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Python+%7C+Kotlin+%7C+JavaScript+%7C+Next.js;Yazılımın+her+katmanında+üretiyorum.;Özcan+Otomotiv+—+Baş+Yazılım+Geliştiricisi;I'm+never+gonna+give+up. 🔥"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Python+%7C+Kotlin+%7C+JavaScript+%7C+Next.js;Building+things+that+actually+work.;Lead+Software+Engineer+%40+Ozcan+Otomotiv;I+am+never+gonna+give+up+%F0%9F%94%A5" alt="typing"/>
 </div>
 
 <br/>
@@ -32,30 +32,30 @@
 
 <br/>
 
-<!-- ABOUT -->
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github"/>
+<!-- ABOUT + STATS SIDE BY SIDE -->
+<img align="right" width="355" src="https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github"/>
 
-### `> kimlik.json`
+### `> profile.json`
 
 ```json
 {
-  "isim"      : "Mustafa Demirsoy",
-  "ünvan"     : "Software Developer",
-  "konum"     : "Türkiye 🇹🇷",
-  "deneyim"   : "2+ yıl — web, desktop, mobil",
-  "şu an"     : "Özcan Otomotiv — Baş Yazılım Gel.",
-  "uzmanlık"  : ["Web", "Desktop", "Python Otomasyon"],
-  "yeni alan" : "Kotlin / Android",
-  "durum"     : "Her türlü yazılım projesine açık 🚀"
+  "name"       : "Mustafa Demirsoy",
+  "title"      : "Software Developer",
+  "location"   : "Turkey",
+  "experience" : "2+ years — web, desktop, mobile",
+  "current"    : "Lead Engineer @ Ozcan Otomotiv",
+  "stack"      : ["Web", "Desktop", "Python Automation"],
+  "exploring"  : "Kotlin / Android Development",
+  "open_to"    : "Any kind of software project"
 }
 ```
 
 <br/>
 
-- 🖥️ **Web'den masaüstüne**, API'den arayüze — yazılımın her katmanında çalışıyorum
-- 🐍 **Python ile** otomasyon sistemleri, scraping botları ve CLI araçları geliştiriyorum
-- 📱 **Kotlin** ile Android tarafına adım atıyorum
-- 🤝 **Her ölçekteki yazılım projesinde** yer almaya ve katkı sunmaya hazırım
+- `💻` Web'den masaüstüne, API'den arayüze yazılımın her katmanında çalışıyorum
+- `🐍` Python ile otomasyon sistemleri, scraping botları ve CLI araçları geliştiriyorum
+- `📱` Kotlin ile Android geliştirmeye adım atıyorum
+- `🤝` Her ölçekteki yazılım projesinde yer almaya ve katkı sunmaya hazırım
 
 <br clear="right"/>
 
@@ -68,7 +68,7 @@
 <!-- TECH STACK -->
 <div align="center">
 
-## 〔 Teknoloji Yığını 〕
+## 〔 Tech Stack 〕
 
 <br/>
 
@@ -167,11 +167,11 @@
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-İleri-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Orta–İleri-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Orta–İleri-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-Orta-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-Orta-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate%20%E2%80%93%20Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Intermediate%20%E2%80%93%20Advanced-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-Intermediate-239120?style=flat-square&logo=csharp&logoColor=white)
 
 </div>
 
@@ -181,7 +181,7 @@
 
 <br/>
 
-## 〔 Öne Çıkan Projeler 〕
+## 〔 Featured Projects 〕
 
 <br/>
 
@@ -192,19 +192,19 @@
 <td width="50%" valign="top">
 <div align="center">
 
-### 🤖 &nbsp;SearchBot
-**Modüler B2B Arama Botu**
+### 🤖 SearchBot
+**Modular B2B Search Bot**
 
 </div>
 
-Çoklu sağlayıcı destekli, CLI ve GUI arayüzlü kurumsal arama motoru otomasyon botu.
+Multi-provider CLI and GUI search automation bot built for enterprise use.
 
 ```
-Dil     →  Python 3.10+
-GUI     →  Tkinter / CLI argparse
-Build   →  PyInstaller (.exe, tek dosya)
-Ağ      →  Playwright (session & login)
-Çıktı   →  Normalize JSON
+Language  →  Python 3.10+
+GUI       →  Tkinter / CLI argparse
+Build     →  PyInstaller (single .exe)
+Network   →  Playwright (session & login)
+Output    →  Normalized JSON
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -213,7 +213,7 @@ Ağ      →  Playwright (session & login)
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/⭐_GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ozcanotomotiv/searchbot)
+[![Repo](https://img.shields.io/badge/%E2%AD%90_GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/ozcanotomotiv/searchbot)
 
 </div>
 </td>
@@ -222,18 +222,18 @@ Ağ      →  Playwright (session & login)
 <td width="50%" valign="top">
 <div align="center">
 
-### 💬 &nbsp;Nexus — Desktop Chat
-**Cross-Platform Sohbet Uygulaması**
+### 💬 Nexus — Desktop Chat
+**Cross-Platform Chat Application**
 
 </div>
 
-Gerçek zamanlı mesajlaşma ve kullanıcı yönetimi sunan Electron tabanlı masaüstü uygulaması.
+Real-time messaging and user management desktop app built with Electron and React.
 
 ```
-Dil     →  JavaScript / React
-Shell   →  Electron
-İletişim→  Gerçek zamanlı socket
-Platform→  Windows · macOS · Linux
+Language  →  JavaScript / React
+Shell     →  Electron
+Comms     →  Real-time socket layer
+Platform  →  Windows / macOS / Linux
 ```
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
@@ -242,7 +242,7 @@ Platform→  Windows · macOS · Linux
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_nexustalk.online-0ea5e9?style=for-the-badge)](https://nexustalk.online)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_nexustalk.online-0ea5e9?style=for-the-badge)](https://nexustalk.online)
 
 </div>
 </td>
@@ -254,26 +254,26 @@ Platform→  Windows · macOS · Linux
 <td width="50%" valign="top">
 <div align="center">
 
-### 📰 &nbsp;Senirkent Blog
-**ASP.NET Blog Platformu**
+### 📰 Senirkent Blog
+**ASP.NET Blog Platform**
 
 </div>
 
-Kimlik doğrulama, SEO optimizasyonu ve mobil uyumlu tasarıma sahip içerik yönetim platformu.
+Content management platform with authentication, SEO, and mobile-first design.
 
 ```
-Dil     →  C# / ASP.NET Core
-Auth    →  Identity Framework
-SEO     →  Meta tags + sitemap
-UI      →  Responsive, mobile-first
+Language  →  C# / ASP.NET Core
+Auth      →  Identity Framework
+SEO       →  Meta tags + sitemap
+UI        →  Responsive, mobile-first
 ```
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASPNET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_senirkent.tolgatukel.com-0ea5e9?style=for-the-badge)](https://senirkent.tolgatukel.com/)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_senirkent.tolgatukel.com-0ea5e9?style=for-the-badge)](https://senirkent.tolgatukel.com/)
 
 </div>
 </td>
@@ -282,28 +282,28 @@ UI      →  Responsive, mobile-first
 <td width="50%" valign="top">
 <div align="center">
 
-### 🛍️ &nbsp;E-Anne E-Ticaret
+### 🛍️ E-Anne E-Commerce
 **Next.js 14 + Tailwind CSS**
 
 </div>
 
-Modern mimaride geliştirilmiş, mobil öncelikli e-ticaret platformu. Ürün listeleme, detay sayfası ve sepet akışlarıyla tam donanımlı mağaza deneyimi.
+Modern e-commerce platform with product listing, detail pages, and full cart flow — mobile-first architecture.
 
 ```
 Framework →  Next.js 14 (App Router)
 UI        →  Tailwind CSS + Inter font
-Özellik   →  PDP, grid listing, CTA'lar
-Mobil     →  Hamburger menü, responsive
+Features  →  PDP, grid listing, CTA flows
+Mobile    →  Hamburger nav, responsive
 Env       →  .env.local + platform Secrets
 ```
 
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/⭐_GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mustafadmrsy/e-anne)
+[![Repo](https://img.shields.io/badge/%E2%AD%90_GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mustafadmrsy/e-anne)
 
 </div>
 </td>
@@ -316,28 +316,29 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-## 〔 İş Deneyimi 〕
+## 〔 Work Experience 〕
 
 <br/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  🔧  Özcan Otomotiv                          2025 – Devam ediyor    ║
-║      Baş Yazılım Geliştirici — Tek Yazılımcı                        ║
-║      → Tüm yazılım altyapısını sıfırdan tasarlıyor ve yönetiyorum   ║
-║      → Web platformları, otomasyon sistemleri ve iç araçlar         ║
-║      → Tasarımdan deploy'a kadar tam sahiplik                        ║
+║  ⚙️   Ozcan Otomotiv                         2025 — Present         ║
+║       Lead Software Engineer                                         ║
+║       Sole engineer owning the entire software stack end-to-end.    ║
+║       → Designing and building all web platforms from scratch       ║
+║       → Automation systems, internal tools, API integrations        ║
+║       → Full ownership: architecture → design → deployment          ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  🏢  Tofa.Hub                                2024 – 2025            ║
+║  🏢  Tofa.Hub                                2024 — 2025            ║
 ║      Web Developer                                                   ║
-║      → Next.js + Tailwind ile responsive UI tasarımı                ║
-║      → SEO ve web performans iyileştirmeleri                         ║
+║      → Next.js + Tailwind responsive UI development                 ║
+║      → SEO strategy and web performance optimization                ║
 ║      tofahub.com                                                     ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  🏢  Cross4Solution Technology               2025 (Kısa dönem)      ║
+║  🏢  Cross4Solution Technology               2025 (Short-term)      ║
 ║      Junior Developer                                                ║
-║      → React.js & Next.js ile UI geliştirme                         ║
-║      → Node.js & Express.js API entegrasyonları                     ║
+║      → React.js and Next.js UI development                          ║
+║      → Node.js and Express.js API integrations                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -347,15 +348,15 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-## 〔 GitHub İstatistikleri 〕
+## 〔 GitHub Stats 〕
 
 <br/>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadmrsy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadmrsy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8&cache_seconds=1800"/>
 &nbsp;&nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafadmrsy&theme=tokyonight&utcOffset=3"/>
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafadmrsy&theme=tokyonight&utcOffset=3"/>
 
 <br/><br/>
 
@@ -369,7 +370,7 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-## 〔 Katkı Serisi 〕
+## 〔 Contribution Streak 〕
 
 <br/>
 
@@ -385,7 +386,7 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-## 〔 Aktivite Grafiği 〕
+## 〔 Activity Graph 〕
 
 <br/>
 
@@ -401,15 +402,15 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-## 〔 İletişim 〕
+## 〔 Contact 〕
 
 <br/>
 
 <div align="center">
 
-| &nbsp; | Platform | Bağlantı |
+| | Platform | Link |
 |:---:|:---|:---|
-| 📧 | **E-Posta** | mustafadmrsy125@gmail.com |
+| 📧 | **Email** | mustafadmrsy125@gmail.com |
 | 💼 | **LinkedIn** | [linkedin.com/in/mustafademirsoy](https://linkedin.com/in/mustafademirsoy) |
 | 🐙 | **GitHub** | [github.com/mustafadmrsy](https://github.com/mustafadmrsy) |
 
@@ -421,13 +422,16 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-<!-- FOOTER -->
+<!-- NEVER GIVE UP SECTION -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=99999&color=F59E0B&center=true&vCenter=true&width=520&lines=I%E2%80%99m+never+gonna+give+up. 🔥"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=80&text=I+am+never+gonna+give+up+%F0%9F%94%A5&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer&animation=fadeIn" width="100%"/>
+<br/>
 
+<!-- FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer&animation=fadeIn" width="100%"/>
 </div>
