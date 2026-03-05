@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Mustafa+Demirsoy&fontSize=62&fontColor=ffffff&fontAlignY=55&desc=Software+Developer+%C2%B7+Turkey&descSize=19&descAlignY=75&descColor=94a3b8&animation=fadeIn&stroke=0ea5e9&strokeWidth=1" width="100%"/>
 </div>
 
-<!-- SOCIAL BADGES -->
+<!-- SOSYAL BAĞLANTILAR -->
 <div align="center">
   <a href="https://linkedin.com/in/mustafademirsoy">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,15 +15,15 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=mustafadmrsy&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/mustafadmrsy?style=for-the-badge&color=22c55e&label=FOLLOWERS"/>
+  <img src="https://komarev.com/ghpvc/?username=mustafadmrsy&style=for-the-badge&color=0ea5e9&label=PROFIL+GORUNTULEMESI"/>
+  <img src="https://img.shields.io/github/followers/mustafadmrsy?style=for-the-badge&color=22c55e&label=TAKIPCI"/>
 </div>
 
 <br/>
 
-<!-- TYPING ANIMATION -->
+<!-- YAZMA ANİMASYONU -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Python+%7C+Kotlin+%7C+JavaScript+%7C+Next.js;Building+things+that+actually+work.;Full+Stack+Developer+%40+Ozcan+Otomotiv;I+am+never+gonna+give+up+%F0%9F%94%A5" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=640&lines=Full-Stack+Web+Developer;Python+%7C+Kotlin+%7C+JavaScript+%7C+Next.js;Her+katmanda+uretiyorum.;Full+Stack+Developer+%40+Ozcan+Otomotiv;I+am+never+gonna+give+up+%F0%9F%94%A5" alt="typing"/>
 </div>
 
 <br/>
@@ -32,30 +32,30 @@
 
 <br/>
 
-<!-- ABOUT + STATS SIDE BY SIDE -->
-<img align="right" width="355" src="https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github&count_private=true"/>
+<!-- HAKKIMDA -->
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github&count_private=true&include_all_commits=true"/>
 
-### `> profile.json`
+### `> profil`
 
 ```json
 {
-  "name"       : "Mustafa Demirsoy",
-  "title"      : "Software Developer",
-  "location"   : "Turkey",
-  "experience" : "2+ years — web, desktop, mobile",
-  "current"    : "Full Stack Developer @ Ozcan Otomotiv",
-  "stack"      : ["Web", "Desktop", "Python Automation"],
-  "exploring"  : "Kotlin / Android Development",
-  "open_to"    : "Any kind of software project"
+  "isim"       : "Mustafa Demirsoy",
+  "unvan"      : "Software Developer",
+  "konum"      : "Turkiye",
+  "deneyim"    : "2+ yil — web, desktop, mobil",
+  "pozisyon"   : "Full Stack Dev @ Ozcan Otomotiv",
+  "uzmanlik"   : ["Web", "Desktop", "Python Otomasyon"],
+  "yeni_alan"  : "Kotlin / Android Gelistirme",
+  "acik_oldugum": "Her turlu yazilim projesi"
 }
 ```
 
 <br/>
 
-- `💻` Web'den masaüstüne, API'den arayüze yazılımın her katmanında çalışıyorum
+- `💻` Web'den masaüstüne, API'den arayüze her katmanda çalışıyorum
 - `🐍` Python ile otomasyon sistemleri, scraping botları ve CLI araçları geliştiriyorum
 - `📱` Kotlin ile Android geliştirmeye adım atıyorum
-- `🤝` Her ölçekteki yazılım projesinde yer almaya ve katkı sunmaya hazırım
+- `🤝` Her ölçekteki yazılım projesinde yer almaya hazırım
 
 <br clear="right"/>
 
@@ -65,10 +65,10 @@
 
 <br/>
 
-<!-- TECH STACK -->
+<!-- TEKNOLOJİ YIĞINI -->
 <div align="center">
 
-## 〔 Tech Stack 〕
+## 〔 Teknoloji Yığını 〕
 
 <br/>
 
@@ -167,11 +167,11 @@
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate%20%E2%80%93%20Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Intermediate%20%E2%80%93%20Advanced-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-Intermediate-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-İleri-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Orta%E2%80%93İleri-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Orta%E2%80%93İleri-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Orta-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-Orta-239120?style=flat-square&logo=csharp&logoColor=white)
 
 </div>
 
@@ -181,7 +181,7 @@
 
 <br/>
 
-## 〔 Featured Projects 〕
+## 〔 Öne Çıkan Projeler 〕
 
 <br/>
 
@@ -193,18 +193,18 @@
 <div align="center">
 
 ### 🤖 SearchBot
-**Modular B2B Search Bot**
+**Modüler B2B Arama Botu**
 
 </div>
 
-Multi-provider CLI and GUI search automation bot built for enterprise use.
+Çoklu sağlayıcı destekli, CLI ve GUI arayüzlü kurumsal arama motoru otomasyon botu.
 
 ```
-Language  →  Python 3.10+
-GUI       →  Tkinter / CLI argparse
-Build     →  PyInstaller (single .exe)
-Network   →  Playwright (session & login)
-Output    →  Normalized JSON
+Dil      →  Python 3.10+
+Arayüz   →  Tkinter / CLI argparse
+Build    →  PyInstaller (tek .exe)
+Ağ       →  Playwright (oturum & giriş)
+Çıktı    →  Normalize JSON
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -222,18 +222,18 @@ Output    →  Normalized JSON
 <td width="50%" valign="top">
 <div align="center">
 
-### 💬 Nexus — Desktop Chat
-**Cross-Platform Chat Application**
+### 💬 Nexus — Masaüstü Sohbet
+**Cross-Platform Sohbet Uygulaması**
 
 </div>
 
-Real-time messaging and user management desktop app built with Electron and React.
+Gerçek zamanlı mesajlaşma ve kullanıcı yönetimi sunan Electron tabanlı masaüstü uygulaması.
 
 ```
-Language  →  JavaScript / React
-Shell     →  Electron
-Comms     →  Real-time socket layer
-Platform  →  Windows / macOS / Linux
+Dil      →  JavaScript / React
+Kabuk    →  Electron
+İletişim →  Gerçek zamanlı socket
+Platform →  Windows / macOS / Linux
 ```
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
@@ -255,17 +255,17 @@ Platform  →  Windows / macOS / Linux
 <div align="center">
 
 ### 📰 Senirkent Blog
-**ASP.NET Blog Platform**
+**ASP.NET Blog Platformu**
 
 </div>
 
-Content management platform with authentication, SEO, and mobile-first design.
+Kimlik doğrulama, SEO optimizasyonu ve mobil uyumlu tasarıma sahip içerik yönetim platformu.
 
 ```
-Language  →  C# / ASP.NET Core
-Auth      →  Identity Framework
-SEO       →  Meta tags + sitemap
-UI        →  Responsive, mobile-first
+Dil      →  C# / ASP.NET Core
+Auth     →  Identity Framework
+SEO      →  Meta etiketleri + sitemap
+Arayüz   →  Responsive, mobil öncelikli
 ```
 
 ![ASPNET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -282,18 +282,18 @@ UI        →  Responsive, mobile-first
 <td width="50%" valign="top">
 <div align="center">
 
-### 🛍️ E-Anne E-Commerce
+### 🛍️ E-Anne E-Ticaret
 **Next.js 14 + Tailwind CSS**
 
 </div>
 
-Modern e-commerce platform with product listing, detail pages, and full cart flow — mobile-first architecture.
+Ürün listeleme, detay sayfası ve sepet akışıyla tam donanımlı, mobil öncelikli e-ticaret platformu.
 
 ```
 Framework →  Next.js 14 (App Router)
-UI        →  Tailwind CSS + Inter font
-Features  →  PDP, grid listing, CTA flows
-Mobile    →  Hamburger nav, responsive
+Arayüz    →  Tailwind CSS + Inter font
+Özellik   →  PDP, grid listeleme, CTA
+Mobil     →  Hamburger menü, responsive
 Env       →  .env.local + platform Secrets
 ```
 
@@ -316,15 +316,15 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-## 〔 Work Experience 〕
+## 〔 İş Deneyimi 〕
 
 <br/>
 
 <div align="center">
 
-| | Company | Role | Period |
+| | Şirket | Pozisyon | Dönem |
 |:---:|:---|:---|:---|
-| ⚙️ | **Ozcan Otomotiv** | Full Stack Developer | 2026 — Present |
+| ⚙️ | **Özcan Otomotiv** | Full Stack Developer | 2026 — Devam ediyor |
 | 🏢 | **Cross4Solution Technology** | Frontend Developer | 2024 — 2026 |
 | 🏢 | **Tofa.Hub** | Web Developer | 2024 — 2025 |
 
@@ -332,14 +332,14 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-**⚙️ Ozcan Otomotiv** `Full Stack Developer · 2026 — Present`
-> Sole engineer with complete ownership of the entire software stack — from architecture and design to deployment and maintenance. Building all web platforms, automation systems, and internal tools from the ground up.
+**⚙️ Özcan Otomotiv** &nbsp;`Full Stack Developer · 2026 — Devam ediyor`
+> Tüm yazılım altyapısının tek sahibi olarak mimari tasarımdan deploy'a kadar tam sorumluluk. Web platformları, otomasyon sistemleri ve dahili araçların tamamını sıfırdan inşa ediyorum.
 
-**🏢 Cross4Solution Technology** `Frontend Developer · 2024 — 2026`
-> Frontend development with React.js and Next.js. API integrations with Node.js and Express.js. Contributed to multiple client-facing web products.
+**🏢 Cross4Solution Technology** &nbsp;`Frontend Developer · 2024 — 2026`
+> React.js ve Next.js ile frontend geliştirme. Node.js ve Express.js API entegrasyonları. Birden fazla müşteriye yönelik web ürününe katkı.
 
-**🏢 Tofa.Hub** `Web Developer · 2024 — 2025`
-> Responsive UI development with Next.js and Tailwind CSS. SEO strategy and web performance optimization.
+**🏢 Tofa.Hub** &nbsp;`Web Developer · 2024 — 2025`
+> Next.js ve Tailwind CSS ile responsive arayüz geliştirme. SEO stratejisi ve web performans iyileştirmeleri.
 
 <br/>
 
@@ -347,15 +347,15 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-## 〔 GitHub Stats 〕
+## 〔 GitHub İstatistikleri 〕
 
 <br/>
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github&count_private=true"/>
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadmrsy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mustafadmrsy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github&count_private=true&include_all_commits=true&hide=contribs"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadmrsy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8"/>
 
 </div>
 
@@ -365,7 +365,7 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-## 〔 Contribution Streak 〕
+## 〔 Katkı Serisi 〕
 
 <br/>
 
@@ -381,7 +381,7 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-## 〔 Activity Graph 〕
+## 〔 Aktivite Grafiği 〕
 
 <br/>
 
@@ -397,15 +397,15 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-## 〔 Contact 〕
+## 〔 İletişim 〕
 
 <br/>
 
 <div align="center">
 
-| | Platform | Link |
+| | Platform | Bağlantı |
 |:---:|:---|:---|
-| 📧 | **Email** | mustafadmrsy125@gmail.com |
+| 📧 | **E-Posta** | mustafadmrsy125@gmail.com |
 | 💼 | **LinkedIn** | [linkedin.com/in/mustafademirsoy](https://linkedin.com/in/mustafademirsoy) |
 | 🐙 | **GitHub** | [github.com/mustafadmrsy](https://github.com/mustafadmrsy) |
 
@@ -424,7 +424,7 @@ Env       →  .env.local + platform Secrets
 
 <br/>
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer&animation=fadeIn" width="100%"/>
 </div>
