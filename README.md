@@ -8,8 +8,6 @@ Full Stack Developer · Turkey
 
 ## Hakkımda
 
-- 2+ yıl deneyim
-- Şu an **Özcan Otomotiv**'de Full Stack Developer olarak çalışıyorum
 - Web uygulamaları, masaüstü uygulamaları ve otomasyon araçları geliştiriyorum
 - Kotlin / Android öğreniyorum
 
@@ -40,17 +38,6 @@ Full Stack Developer · Turkey
 
 **E-Anne** — Next.js 14 (App Router) ve Tailwind CSS ile geliştirilmiş mobil öncelikli e-ticaret sitesi.
 [Repo](https://github.com/mustafadmrsy/e-anne)
-
-## Deneyim
-
-**Özcan Otomotiv** — Full Stack Developer · 2026 – Günümüz
-Yazılım altyapısının tamamından tek başıma sorumluyum. Web platformları, otomasyon sistemleri ve dahili araçları sıfırdan tasarlayıp geliştiriyorum.
-
-**Cross4Solution Technology** — Frontend Developer · 2024 – 2026
-React.js ve Next.js ile frontend geliştirme. Node.js ve Express ile API entegrasyonları.
-
-**Tofa.Hub** — Web Developer · 2024 – Günümüz
-Next.js ve Tailwind CSS ile responsive arayüz geliştirme. SEO stratejisi ve performans optimizasyonu.
 
 ## İletişim
 
