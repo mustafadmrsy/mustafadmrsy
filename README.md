@@ -6,40 +6,40 @@ Full Stack Developer · Turkey
 
 ---
 
-## Hakkımda
+## About
 
-- Web uygulamaları, masaüstü uygulamaları ve otomasyon araçları geliştiriyorum
-- Kotlin / Android öğreniyorum
+- Building web apps, desktop apps, and automation tools
+- Learning Kotlin / Android
 
-## Teknolojiler
+## Tech Stack
 
 **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
 **Backend & Desktop:** Node.js, Express, Python, ASP.NET (C#), Electron
-**Mobil & Araçlar:** Kotlin, Android Studio, Git, Figma, VS Code, Postman
+**Mobile & Tools:** Kotlin, Android Studio, Git, Figma, VS Code, Postman
 
-| Yetenek | Seviye |
+| Skill | Level |
 |---|---|
-| Python | İleri |
-| JavaScript / TypeScript | İleri |
-| Next.js / React | İleri |
-| C# / ASP.NET | Orta |
-| Kotlin | Öğreniyor |
+| Python | Advanced |
+| JavaScript / TypeScript | Advanced |
+| Next.js / React | Advanced |
+| C# / ASP.NET | Intermediate |
+| Kotlin | Learning |
 
-## Projeler
+## Projects
 
-**SearchBot** — Python + Playwright ile geliştirilmiş, çoklu sağlayıcı destekli B2B arama otomasyonu. CLI ve GUI arayüzleri var, PyInstaller ile exe olarak paketleniyor.
+**SearchBot** — Multi-provider B2B search automation built with Python + Playwright. Includes both CLI and GUI interfaces, packaged as a standalone executable with PyInstaller.
 [Repo](https://github.com/ozcanotomotiv/searchbot)
 
-**Nexus** — Electron + React ile yazılmış, gerçek zamanlı mesajlaşma özellikli masaüstü sohbet uygulaması. Windows, macOS ve Linux'ta çalışıyor.
+**Nexus** — Cross-platform desktop chat app built with Electron + React, with real-time messaging. Runs on Windows, macOS, and Linux.
 [Website](https://nexustalk.online)
 
-**Senirkent Blog** — ASP.NET Core tabanlı içerik yönetim sistemi. Identity Framework ile kimlik doğrulama, SEO optimizasyonu.
+**Senirkent Blog** — ASP.NET Core content management system with Identity Framework authentication and SEO optimization.
 [Website](https://senirkent.tolgatukel.com/)
 
-**E-Anne** — Next.js 14 (App Router) ve Tailwind CSS ile geliştirilmiş mobil öncelikli e-ticaret sitesi.
+**E-Anne** — Mobile-first e-commerce site built with Next.js 14 (App Router) and Tailwind CSS.
 [Repo](https://github.com/mustafadmrsy/e-anne)
 
-## İletişim
+## Contact
 
 - 📧 mustafadmrsy125@gmail.com
 - 💼 [linkedin.com/in/mustafademirsoy](https://linkedin.com/in/mustafademirsoy)
